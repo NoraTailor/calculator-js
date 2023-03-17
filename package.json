@@ -1,6 +1,6 @@
 {
 	"name": "my-calculator",
-	"homepage": "https://noratailor.github.io/calculator-js",
+	"homepage": "https://noratailor.github.io/calculator-js/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
